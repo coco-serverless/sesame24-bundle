@@ -1,4 +1,14 @@
-# CoCo Serverless
+# Serverless Confidential Containers: Challenges and Opportunities
+
+> [!WARNING]
+> This repository is a bundle containing the code, evaluation scripts, and
+> evaluation data for the SESAME'24 paper: "Serverless Confidential
+> Containers: Challenges and Opportunites", that you may find here:
+> https://dl.acm.org/doi/10.1145/3642977.3652097
+>
+> This repository is now archived. Please check the main organisation page
+> for our latest developments:
+> https://github.com/coco-serverless
 
 The goal of this project is to deploy [Knative](https://knative.dev/docs/) on
 [CoCo](https://github.com/confidential-containers) and run some baseline
